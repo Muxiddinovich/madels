@@ -1,4 +1,4 @@
 print("Assalom dunyo")
 
 
-print ("VAAA aleykum assalom")
+print ("VAAA aleykum assalom aka")
