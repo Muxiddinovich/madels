@@ -1,0 +1,34 @@
+[
+    {
+        "name": "sut",
+        "price": "12 000",
+        "quantity": "50 kg",
+        "expiry_date": "s"
+    },
+    {
+        "name": "olma",
+        "price": "5 000",
+        "quantity": "20 kg",
+        "expiry_date": "s"
+    },
+    {
+        "name": "Skoch",
+        "price": "12 000",
+        "quantity": "10 dona"
+    },
+    {
+        "name": "Qulupnay",
+        "price": "65 000",
+        "quantity": "200 kg"
+    },
+    {
+        "name": "Tarvuz",
+        "price": "1 200",
+        "quantity": "2 kamaz"
+    },
+    {
+        "name": "Qovun",
+        "price": "3 500",
+        "quantity": "5 kamaz"
+    }
+]
